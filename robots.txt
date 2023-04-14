@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zikeyang.com/sitemap.xml

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Just for fun</title>
+    <link>https://zikeyang.com/tags/</link>
+    <description>Recent content in Tags on Just for fun</description>
+    <image>
+      <title>Just for fun</title>
+      <url>https://zikeyang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zikeyang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zikeyang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>https://zikeyang.com/tags/c&#43;&#43;/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zikeyang.com/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nodejs</title>
+      <link>https://zikeyang.com/tags/nodejs/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zikeyang.com/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pulsar</title>
+      <link>https://zikeyang.com/tags/pulsar/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zikeyang.com/tags/pulsar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
