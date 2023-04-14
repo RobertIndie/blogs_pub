@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zikeyang.com/tags/c&#43;&#43;/</loc>
+    <loc>https://blog.zikeyang.com/tags/c&#43;&#43;/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zikeyang.com/posts/call-a-nodejs-async-function-from-napi-native-code/</loc>
+    <loc>https://blog.zikeyang.com/posts/call-a-nodejs-async-function-from-napi-native-code/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zikeyang.com/</loc>
+    <loc>https://blog.zikeyang.com/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zikeyang.com/tags/nodejs/</loc>
+    <loc>https://blog.zikeyang.com/tags/nodejs/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zikeyang.com/posts/</loc>
+    <loc>https://blog.zikeyang.com/posts/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zikeyang.com/tags/pulsar/</loc>
+    <loc>https://blog.zikeyang.com/tags/pulsar/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zikeyang.com/tags/</loc>
+    <loc>https://blog.zikeyang.com/tags/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zikeyang.com/categories/</loc>
+    <loc>https://blog.zikeyang.com/categories/</loc>
   </url>
 </urlset>

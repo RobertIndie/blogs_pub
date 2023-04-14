@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>nodejs on Just for fun</title>
-    <link>https://zikeyang.com/tags/nodejs/</link>
+    <link>https://blog.zikeyang.com/tags/nodejs/</link>
     <description>Recent content in nodejs on Just for fun</description>
     <image>
       <title>Just for fun</title>
-      <url>https://zikeyang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://zikeyang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.zikeyang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.zikeyang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zikeyang.com/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.zikeyang.com/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call a Nodejs Async Function from C&#43;&#43; Native Code</title>
-      <link>https://zikeyang.com/posts/call-a-nodejs-async-function-from-napi-native-code/</link>
+      <link>https://blog.zikeyang.com/posts/call-a-nodejs-async-function-from-napi-native-code/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zikeyang.com/posts/call-a-nodejs-async-function-from-napi-native-code/</guid>
+      <guid>https://blog.zikeyang.com/posts/call-a-nodejs-async-function-from-napi-native-code/</guid>
       <description>Nodejs Asynchronous programming is an essential part of building efficient and user-friendly Node.js applications. However, properly handling asynchronous code in a Node addon for a Node.js application can be challenging. This blog will talk about how to call a Nodejs asynchronous function in the C++ Native code
 Let&amp;rsquo;s introduce the case we have encountered first. We are attempting to use a Pulsar consumer message listener from C++ native code to call a Node.</description>
     </item>
