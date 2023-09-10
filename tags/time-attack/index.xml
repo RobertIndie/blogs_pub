@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Just for fun</title>
-    <link>https://blog.zikeyang.com/</link>
-    <description>Recent content on Just for fun</description>
+    <title>time attack on Just for fun</title>
+    <link>https://blog.zikeyang.com/tags/time-attack/</link>
+    <description>Recent content in time attack on Just for fun</description>
     <image>
       <title>Just for fun</title>
       <url>https://blog.zikeyang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.zikeyang.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.zikeyang.com/tags/time-attack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Constant-time string comparison algorithms</title>
       <link>https://blog.zikeyang.com/posts/constant-time-string-comparison-algorithms/</link>
@@ -20,16 +20,6 @@
       <guid>https://blog.zikeyang.com/posts/constant-time-string-comparison-algorithms/</guid>
       <description>Tick-tock, tick-tock&amp;hellip; Ah, the melodic passage of time. But did you perchance grasp the mischievous nature time conceals? Indeed, beyond the facade of clock hands and digital displays, lies a clandestine realm of timing attacks.
 Allow me to furnish an example—the game of word guessing. Imagine, within the depths of your mind, you have conjured the word &amp;ldquo;hello world.&amp;rdquo; If I were to successfully divine this word, it would proclaim my victory.</description>
-    </item>
-    
-    <item>
-      <title>Call a Nodejs Async Function from C&#43;&#43; Native Code</title>
-      <link>https://blog.zikeyang.com/posts/call-a-nodejs-async-function-from-napi-native-code/</link>
-      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.zikeyang.com/posts/call-a-nodejs-async-function-from-napi-native-code/</guid>
-      <description>Nodejs Asynchronous programming is an essential part of building efficient and user-friendly Node.js applications. However, properly handling asynchronous code in a Node addon for a Node.js application can be challenging. This blog will talk about how to call a Nodejs asynchronous function in the C++ Native code
-Let&amp;rsquo;s introduce the case we have encountered first. We are attempting to use a Pulsar consumer message listener from C++ native code to call a Node.</description>
     </item>
     
   </channel>
